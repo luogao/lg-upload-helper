@@ -1,6 +1,8 @@
 # LG-UPLOAD-HELPER
 简称 待定：lgup
 
+项目并到[lg-cli](https://github.com/luogao/lg-upload-helper)中一起开发
+
 # TODO 
 - 将打包好的项目文件发布到指定的服务器上的命令行工具
 
